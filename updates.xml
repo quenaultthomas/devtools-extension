@@ -4,7 +4,7 @@
     <updatecheck
       status='ok'
       version='1.2.0'
-      codebase='https://TON_PSEUDO.github.io/TON_REPO/devtools-extension.zip'
+      codebase='https://quenaultthomas.github.io/devtools-extension/devtools-extension.zip'
     />
   </app>
 </gupdate>
