@@ -4,7 +4,7 @@
   "version": "1.2.0",
   "description": "JSON/XML/SQL formatter, JWT decoder, Base64, Timestamp, Diff, UUID, Form Tools — tout en un.",
 
-  "update_url": "https://TON_PSEUDO.github.io/TON_REPO/updates.xml",
+  "update_url": "https://quenaultthomas.github.io/devtools-extension/updates.xml",
 
   "action": {
     "default_popup": "devtools.html",
