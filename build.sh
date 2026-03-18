@@ -12,7 +12,7 @@ if [ -z "$VERSION" ]; then
   exit 1
 fi
 
-REPO="TON_PSEUDO/TON_REPO"   # ← à remplacer
+REPO="quenaultthomas/devtools-extension" 
 ZIP_NAME="devtools-extension.zip"
 
 echo "📦 Build v$VERSION..."
